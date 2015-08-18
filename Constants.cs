@@ -14,7 +14,7 @@ namespace AmbrosiaTrader
         public static DateTime PreMktOpenTime;
         public static DateTime PostMktCloseTime;
 
-        // new code
+        // old code, testing merge
 
         // new code part 2
     }
