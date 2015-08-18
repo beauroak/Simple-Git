@@ -16,6 +16,6 @@ namespace AmbrosiaTrader
 
         // new code
 
-        
+        // new code part 2
     }
 }
